@@ -1,5 +1,11 @@
 # Substack Launch Playbooks
 
+## Current lessons
+
+Read [November 2026 lessons](lessons-november-2026.md) for the latest writing and reporting corrections. Record each new Substack lesson Rajveer teaches in this repository. These lessons replace conflicting older writing and reporting advice below. The October campaign, cadence and results below are historical, not current instructions to repeat that campaign or pace.
+
+## October 2026 archive
+
 Operating playbooks for promoting rkto.substack.com essays. Agents run the lanes from these rules.
 
 ## Objective
