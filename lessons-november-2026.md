@@ -49,6 +49,8 @@ Keep dashboard subscriber counts separate from public-profile counts. Keep publi
 
 ## Personal Finance: Day By Day!
 
+From November 25 onward, end every installment with the exact text **Follow Along!**. This applies to the Personal Finance: Day By Day! series, not unrelated Notes. It does not call for retroactive edits.
+
 Preserve this exact series title. Each installment uses Day # followed by the next number and an actual practical tip. The bracketed Tip in the original request was a placeholder, not publication copy.
 
 Keep the tip short, educational and grounded. Do not invent individualized financial advice or unsupported country-specific rules. Check existing installments before choosing the next number. The daily series replaces an existing Note slot rather than adding volume.
