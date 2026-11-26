@@ -17,6 +17,12 @@ These November writing and reporting lessons replace conflicting October advice 
 
 Source: Rajveer's November 23 request to diagnose underperformance and November 24 feedback about density, links, lowercase lettering and paragraphs. The later visual correction replaces the earlier allowance for lowercase one-liners.
 
+## Lead with finance
+
+November 26 editorial correction: keep the money problem at the centre. AI can help explain a finance story, but should not become the standalone story. Banking is the chosen topic for the next full article. That article choice does not change the daily Notes series or add a publication slot.
+
+Treat apparent topic performance as a reason to test a direction, not proof of causation. Compare reach at similar ages and keep exposure separate from engagement after exposure. Hooks, timing and format can change the result alongside subject matter.
+
 ## Diagnose, compare and improve
 
 Review the actual older Notes as well as recent ones. Study successful examples and apply what is useful instead of repeating a weak format.
