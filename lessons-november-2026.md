@@ -23,6 +23,17 @@ November 26 editorial correction: keep the money problem at the centre. AI can h
 
 Treat apparent topic performance as a reason to test a direction, not proof of causation. Compare reach at similar ages and keep exposure separate from engagement after exposure. Hooks, timing and format can change the result alongside subject matter.
 
+## Give readers a specific next step
+
+November 27 correction: a generic invitation to visit the page does not give a reader a reason to act. Each upcoming Note should make one useful point on its own, then offer one relevant next step: read a named existing article for a specific answer, or subscribe for a clearly described kind of finance coverage.
+
+- Read the destination article before promising its payoff. The article must actually answer the question named in the Note. Do not force an unrelated article onto a stronger finance topic.
+- Prefer a concrete reason to continue over a vague profile invitation or a generic plug. One action is enough; do not pile reading, liking, sharing and subscribing into the same short Note.
+- Keep finance first, normal capitalization and light visual density. Link a relevant article by its title where the format supports it, rather than adding source-link clutter or several previews.
+- Preserve the daily series title, numbering and exact closing text. A subscription invitation must explain the value without promising a delivery frequency that has not been established.
+- Judge the test by source-attributed article visits and explicitly attributed subscriptions when available. Likes and replies measure engagement, not conversion. A rise in total post views or dashboard subscribers after a Note is only a contemporaneous change unless a source identifies the Note.
+- Compare at similar ages, keep missing attribution unknown, and never turn total views into unique readers or a view count into a click-through rate without its denominator.
+
 ## Diagnose, compare and improve
 
 Review the actual older Notes as well as recent ones. Study successful examples and apply what is useful instead of repeating a weak format.
